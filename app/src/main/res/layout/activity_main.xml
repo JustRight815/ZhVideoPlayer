@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/titlebar"
+        layout="@layout/title_bar" />
+
+    <com.zh.zhvideoplayer.view.stateview.StateView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/mStateView"
+        android:layout_below="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:state_current="content"
+        app:state_empty="@layout/stateview_empty_view"
+        app:state_error="@layout/stateview_error_net_view"
+        app:state_loading="@layout/stateview_loading_view">
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:ptr="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/PullToRefreshListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@null"
+            ptr:ptrAnimationStyle="flip"></com.handmark.pulltorefresh.library.PullToRefreshListView>
+    </com.zh.zhvideoplayer.view.stateview.StateView>
+
+    <Button
+        android:id="@+id/btn_top"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginRight="20dp"
+        android:background="@mipmap/to_top"
+        android:gravity="center"
+        android:visibility="gone" />
+
+</RelativeLayout>

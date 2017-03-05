@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="NoTitle" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 原来的界面和新打开的界面都会有动画 -->
+        <item name="colorPrimaryDark">@color/material_colorAccent</item>
+        <item name="colorAccent">@color/material_colorAccent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="alertDialogTheme">@style/MyAlertDialogStyle</item>
+    </style>
+
+    <!-- activity界面切换动画 -->
+    <style name="activityAnimation" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_right_out</item>
+    </style>
+
+    <!-- material design 风格的alertdialog -->
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- <item name="android:textColorPrimary">#000000</item>  标题和内容的文字颜色 -->
+        <!-- <item name="colorAccent">#FFC107</item>  按钮的文字颜色 -->
+        <!-- <item name="android:background">#4CAF50</item>Used for the background -->
+    </style>
+
+</resources>

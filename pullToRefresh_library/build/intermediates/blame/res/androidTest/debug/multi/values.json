@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 44,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 44,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 44,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 44,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1795,
+                    "endColumn": 63,
+                    "endOffset": 1854
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endColumn": 63,
+                        "endOffset": 1854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1859,
+                    "endColumn": 63,
+                    "endOffset": 1918
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1859,
+                        "endColumn": 63,
+                        "endOffset": 1918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1923,
+                    "endColumn": 54,
+                    "endOffset": 1973
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1923,
+                        "endColumn": 54,
+                        "endOffset": 1973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1978,
+                    "endColumn": 56,
+                    "endOffset": 2030
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1978,
+                        "endColumn": 56,
+                        "endOffset": 2030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2035,
+                    "endColumn": 54,
+                    "endOffset": 2085
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2035,
+                        "endColumn": 54,
+                        "endOffset": 2085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2090,
+                    "endColumn": 37,
+                    "endOffset": 2123
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2090,
+                        "endColumn": 37,
+                        "endOffset": 2123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2128,
+                    "endColumn": 39,
+                    "endOffset": 2163
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2128,
+                        "endColumn": 39,
+                        "endOffset": 2163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2168,
+                    "endColumn": 50,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2168,
+                        "endColumn": 50,
+                        "endOffset": 2214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 36,
+                    "endOffset": 2251
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2219,
+                        "endColumn": 36,
+                        "endOffset": 2251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2256,
+                    "endColumn": 101,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2256,
+                        "endColumn": 101,
+                        "endOffset": 2353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endColumn": 113,
+                    "endOffset": 2467
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2358,
+                        "endColumn": 113,
+                        "endOffset": 2467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2472,
+                    "endColumn": 107,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2472,
+                        "endColumn": 107,
+                        "endOffset": 2575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endColumn": 71,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2580,
+                        "endColumn": 71,
+                        "endOffset": 2647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endColumn": 69,
+                    "endOffset": 2717
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2652,
+                        "endColumn": 69,
+                        "endOffset": 2717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2722,
+                    "endColumn": 77,
+                    "endOffset": 2795
+                },
+                "from": {
+                    "file": "D:\\Work\\ASworkspace\\ZhVideoPlayer\\pullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2722,
+                        "endColumn": 77,
+                        "endOffset": 2795
+                    }
+                }
+            }
+        ]
+    }
+]
