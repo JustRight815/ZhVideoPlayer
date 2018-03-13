@@ -158,9 +158,8 @@ public class MainActivity extends AppCompatActivity implements
         //6.0动态权限申请
         if (Build.VERSION.SDK_INT>= Build.VERSION_CODES.M){
             new PermissionUtils(this).needPermission(200);
-        }else{
-            getDatas();
         }
+        getDatas();//这样改其实也不太对
     }
 
 
